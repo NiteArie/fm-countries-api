@@ -10,6 +10,13 @@
 
 ![Desktop Home Dark](./design/desktop-design-home-dark.jpg)
 
+> Desktop Detail Light
+
+![Destkop Detail Light](./design/desktop-design-detail-light.jpg)
+
+> Desktop Detail Dark
+
+![Desktop Detail Dark](./design/desktop-design-detail-dark.jpg)
 
 
 ## General

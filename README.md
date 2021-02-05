@@ -26,6 +26,14 @@
 
 ![Mobile Home Dark](./design/mobile-design-home-dark.jpg)
 
+> Mobile Detail Light
+
+![Mobile Home Light](./design/mobile-design-detail-light.jpg)
+
+> Mobile Detail Dark
+
+![Mobile Detail Dark](./design/mobile-design-detail-dark.jpg)
+
 
 
 ## General

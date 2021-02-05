@@ -1,5 +1,17 @@
 # fm-countries-api (Countries API)
 
+## Design
+
+> Desktop Home Light
+
+![Desktop Home Light](./design/desktop-design-home-light.jpg)
+
+> Desktop Home Dark
+
+![Desktop Home Dark](./design/desktop-design-home-dark.jpg)
+
+
+
 ## General
 
 My challenge is to integrate with the [REST Countries API](https://restcountries.eu) to pull country data and display it like in the designs.
